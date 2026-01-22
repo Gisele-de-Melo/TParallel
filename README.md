@@ -1,4 +1,4 @@
-#TParallel - Parallelism in Delphi / TParallel - Paralelismo em Delphi
+# TParallel - Parallelism in Delphi / TParallel - Paralelismo em Delphi
 - Example of using TParallel in Delphi - For Loop
 - Exemplo de uso de TParallel em Delphi - Laço For
 
